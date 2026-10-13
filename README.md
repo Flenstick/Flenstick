@@ -37,7 +37,7 @@ GIF or video. Works as a virtual camera in Discord, OBS and the browser.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Flenstick/lincut"><img src="https://raw.githubusercontent.com/Flenstick/lincut/main/docs/screenshots/editor.png" alt="LinCut"></a>
+<a href="https://github.com/Flenstick/lincut"><img src="assets/lincut-banner.png" alt="LinCut"></a>
 
 ### [LinCut](https://github.com/Flenstick/lincut)
 A CapCut-style video editor for Linux and Windows: effects, keyframes,
@@ -49,7 +49,7 @@ masks, Track Matte, AI object cutout, YouTube/TikTok import.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Flenstick/TrollOS-Dotfiles"><img src="https://raw.githubusercontent.com/Flenstick/TrollOS-Dotfiles/trollos/docs/trollos/wallpapers.png" alt="TrollOS"></a>
+<a href="https://github.com/Flenstick/TrollOS-Dotfiles"><img src="assets/trollos-banner.png" alt="TrollOS"></a>
 
 ### [TrollOS](https://github.com/Flenstick/TrollOS-Dotfiles)
 My Niri + Quickshell desktop for CachyOS / Arch. A fork of
