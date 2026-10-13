@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#131316" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#131316" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#131316" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="14" fill="#131316"/>
+  <rect width="1280" height="300" rx="14" fill="url(#dots)"/>
+  <rect width="1280" height="300" rx="14" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="14" fill="none" stroke="#2e2e34"/>
+
+  <rect x="72" y="86" width="6" height="128" rx="3" fill="#8fe03b"/>
+  <g font-family="'Inter','Segoe UI','Noto Sans',Ubuntu,Arial,sans-serif">
+    <text x="104" y="150" font-size="68" font-weight="800" fill="#f2f2f3" letter-spacing="-1.5">MrFlen</text>
+    <text x="106" y="196" font-size="24" fill="#9a9aa3">Desktop apps for Linux &amp; Windows · Niri / Quickshell</text>
+  </g>
+
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" fill="#8fe03b">
+    <g transform="translate(860 92)">
+      <rect width="320" height="36" rx="8" fill="#1c1c20" stroke="#2e2e34"/>
+      <text x="18" y="24">Kliper<tspan fill="#9a9aa3" dx="12">game clips on F8</tspan></text>
+    </g>
+    <g transform="translate(860 136)">
+      <rect width="320" height="36" rx="8" fill="#1c1c20" stroke="#2e2e34"/>
+      <text x="18" y="24">Maska<tspan fill="#9a9aa3" dx="12">face-hiding webcam</tspan></text>
+    </g>
+    <g transform="translate(860 180)">
+      <rect width="320" height="36" rx="8" fill="#1c1c20" stroke="#2e2e34"/>
+      <text x="18" y="24">LinCut<tspan fill="#9a9aa3" dx="12">video editor</tspan></text>
+    </g>
+  </g>
+</svg>
